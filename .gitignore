@@ -1,0 +1,17 @@
+node_modules
+.vercel
+dist
+.output
+.nitro
+.tanstack
+*.log
+.env
+.env.*
+screenshots
+artifacts
+.grok/og-pending
+.grok/*.tmp
+.grok/*.jpg
+.grok/og-card.jpg
+routeTree.gen.ts
+.DS_Store
